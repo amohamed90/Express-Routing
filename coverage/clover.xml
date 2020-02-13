@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1581556487131" clover="3.2.0">
+  <project timestamp="1581556487132" name="All files">
+    <metrics statements="37" coveredstatements="24" conditionals="6" coveredconditionals="0" methods="7" coveredmethods="2" elements="50" coveredelements="26" complexity="0" loc="37" ncloc="37" packages="1" files="4" classes="4"/>
+    <file name="app.js" path="/Users/alaabella/Desktop/Express-ShoppingList/app.js">
+      <metrics statements="11" coveredstatements="8" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+    </file>
+    <file name="expressError.js" path="/Users/alaabella/Desktop/Express-ShoppingList/expressError.js">
+      <metrics statements="6" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+    </file>
+    <file name="fakeDb.js" path="/Users/alaabella/Desktop/Express-ShoppingList/fakeDb.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+    </file>
+    <file name="routes.js" path="/Users/alaabella/Desktop/Express-ShoppingList/routes.js">
+      <metrics statements="18" coveredstatements="13" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="0" type="stmt"/>
+      <line num="27" count="0" type="stmt"/>
+      <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="29" count="0" type="stmt"/>
+      <line num="31" count="0" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
